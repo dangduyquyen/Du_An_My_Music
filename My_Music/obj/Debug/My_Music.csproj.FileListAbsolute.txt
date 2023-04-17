@@ -1,0 +1,44 @@
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\My_Music.exe.config
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\My_Music.exe
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\My_Music.pdb
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.csproj.AssemblyReference.cache
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.csproj.ResolveComReference.cache
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.Form1.resources
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.Properties.Resources.resources
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.csproj.GenerateResource.cache
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.exe
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.pdb
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\EntityFramework.dll
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\EntityFramework.xml
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.csproj.CopyComplete
+C:\Users\LAPTOP KIMANH\source\repos\My_Music\My_Music\obj\Debug\My_Music.frm_QLBH.resources
+D:\code_cShap\My_Music\My_Music\bin\Debug\My_Music.exe.config
+D:\code_cShap\My_Music\My_Music\bin\Debug\My_Music.exe
+D:\code_cShap\My_Music\My_Music\bin\Debug\My_Music.pdb
+D:\code_cShap\My_Music\My_Music\bin\Debug\EntityFramework.dll
+D:\code_cShap\My_Music\My_Music\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_cShap\My_Music\My_Music\bin\Debug\EntityFramework.xml
+D:\code_cShap\My_Music\My_Music\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_cShap\My_Music\My_Music\bin\Debug\Interop.WMPLib.dll
+D:\code_cShap\My_Music\My_Music\bin\Debug\AxInterop.WMPLib.dll
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.csproj.AssemblyReference.cache
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.csproj.SuggestedBindingRedirects.cache
+D:\code_cShap\My_Music\My_Music\obj\Debug\Interop.WMPLib.dll
+D:\code_cShap\My_Music\My_Music\obj\Debug\AxInterop.WMPLib.dll
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.csproj.ResolveComReference.cache
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.Form1.resources
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.frm_QLBH.resources
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.Properties.Resources.resources
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.csproj.GenerateResource.cache
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.csproj.CoreCompileInputs.cache
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.csproj.CopyComplete
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.exe
+D:\code_cShap\My_Music\My_Music\obj\Debug\My_Music.pdb
